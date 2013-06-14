@@ -1,0 +1,2 @@
+class TCPSocket
+end
