@@ -1,10 +1,12 @@
 GEM
   remote: https://rubygems.org/
   specs:
-    motion-bundler (0.1.6)
+    motion-bundler (0.1.7)
+      thor
+    thor (0.18.1)
 
 PLATFORMS
   ruby
 
 DEPENDENCIES
-  motion-bundler (= 0.1.6)
+  motion-bundler (= 0.1.7)

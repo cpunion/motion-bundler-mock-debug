@@ -1,3 +1,3 @@
 source "https://rubygems.org"
 
-gem 'motion-bundler', '0.1.6'
+gem 'motion-bundler', '0.1.7'
